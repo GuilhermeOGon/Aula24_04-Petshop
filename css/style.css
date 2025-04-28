@@ -1,0 +1,20 @@
+/* Tags gerais */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+header{
+    background-image: url(../img/fundo-topo.jpg);
+    padding-top: 10px 0;
+    text-align: center;
+}
+
+header h1{
+    height: 84px;
+}
